@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(236, 229, 217);
+    color: rgb(65, 147, 150);
+}
+img {
+    height: auto;
+    width:  500px;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    color: darkgoldenrod;
+}
+
+ol {
+    color: darkolivegreen;
+}
